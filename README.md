@@ -27,7 +27,7 @@ To run this project, follow these steps:
 - **Right Mouse Button**: Aim
 - **Shift**: Sprint
 
-## Game Sccreenshot
+## Game Screenshot
 
 ![Screenshot 2024-09-16 232924](https://github.com/user-attachments/assets/3f86411e-6d1d-4cb7-a155-2ef63bec1888)
 
