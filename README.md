@@ -1,6 +1,6 @@
 # Dead Zone
 
-**Horror Game** is a chilling survival horror experience built in **Unreal Engine 5**. Explore a haunted environment filled with terrifying secrets and horrifying creatures. As you navigate through dark, atmospheric levels, your only goal is to survive the night and uncover the truth behind the sinister occurrences.
+**Dead Zone** is a chilling survival horror experience built in **Unreal Engine 5**. Explore a haunted environment filled with terrifying secrets and horrifying creatures. As you navigate through dark, atmospheric levels, your only goal is to survive the night and uncover the truth behind the sinister occurrences.
 
 ## Key Features
 
