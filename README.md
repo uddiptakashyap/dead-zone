@@ -7,6 +7,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Controls](#controls)
+- [Game Screenshot](#game screenshot)
 
 ## Key Features
 
