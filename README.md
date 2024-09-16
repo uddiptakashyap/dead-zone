@@ -35,6 +35,13 @@ To run this project, follow these steps:
 
 Game Sccreenshot
 
+![Screenshot 2024-09-16 232924](https://github.com/user-attachments/assets/3f86411e-6d1d-4cb7-a155-2ef63bec1888)
+
+![Screenshot 2024-09-16 233021](https://github.com/user-attachments/assets/0c8cfbcc-20fe-4c2e-b95f-3d03ba148fd3)
+
+![Screenshot 2024-09-16 233326](https://github.com/user-attachments/assets/000b3dd4-0b2c-4ac1-ae11-fe3371ab23e8)
+
+
 
 
 
