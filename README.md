@@ -7,7 +7,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Controls](#controls)
-- [Game Screenshot](#game screenshot)
+- [Game Screenshot](# game screenshot)
 
 ## Key Features
 
@@ -34,7 +34,7 @@ To run this project, follow these steps:
 - **Right Mouse Button**: Aim
 - **Shift**: Sprint
 
-Game Sccreenshot
+## Game Sccreenshot
 
 ![Screenshot 2024-09-16 232924](https://github.com/user-attachments/assets/3f86411e-6d1d-4cb7-a155-2ef63bec1888)
 
